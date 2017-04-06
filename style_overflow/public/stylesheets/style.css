@@ -1,0 +1,100 @@
+body {
+ 
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #f8f8f1;
+}
+
+a {
+  color: #6e8eab;
+}
+
+#myPadding {
+	padding-left: 1.5cm;
+}
+
+.center {
+    text-align: center;
+  }
+
+#myHeader {
+	padding-top: 26px; 
+	font-weight: 500;
+	
+	width: 100%;
+	height: 120px;
+	background: url('/images/style1.png') ;
+	background-repeat:no-repeat;
+    background-position: center; 
+    background-size: 100%;
+
+	color: white;
+}
+
+
+
+.navbar-custom {
+ 
+  font-family: "Lucida Grande", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  border: none;
+  position: absolute;
+
+      width: 100%;
+      height:72px;
+          
+      background: #c4a588;
+      position:absolute;
+      top:0px;
+      padding: 20px;
+
+
+
+
+}
+.navbar-custom a:focus {
+  outline: none;
+}
+
+.navbar-custom .navbar-brand {
+  color: white;
+}
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus,
+.navbar-custom .navbar-brand:active,
+.navbar-custom .navbar-brand.active {
+  color: white;
+}
+
+.navbar-custom .navbar-nav {
+  letter-spacing: 1px;
+}
+.navbar-custom .navbar-nav li a {
+  color: white;
+}
+.navbar-custom .navbar-nav li a:hover {
+  color: black;
+  outline: none;
+}
+.navbar-custom .navbar-nav li a:focus,
+.navbar-custom .navbar-nav li a:active {
+  color: white;
+}
+.navbar-custom .navbar-nav li.active a {
+  color: white;
+  background: #588c7e;
+}
+
+.navbar-brand {
+ font-weight: 800;
+ color:white;
+ font-size: 30px;
+}
+
+.navbar-fixed-top {
+	font-size:17px;
+}
+
+
+
+
+
